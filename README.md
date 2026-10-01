@@ -1,2 +1,3 @@
-# learnings
-skills
+# My First Repo
+Hello GitHub!
+
